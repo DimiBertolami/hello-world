@@ -1,2 +1,2 @@
 # hello-world
-hello from me... Dimitri
+hello from me ... Dimitri
